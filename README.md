@@ -1,4 +1,6 @@
 # Predicting-ozone-concentration-in-Kaohsiung-using-weather-factors
+> 喜好程度(1~5):3
+
 此專案為我高中時期做過的科展內容，利用天氣因子透過類神經網路去預測高雄地區的臭氧濃度，但由於當時在指導老師的奇怪建議下選擇投了數學組，而導致只拿了佳作。
 
 ## 前置作業
